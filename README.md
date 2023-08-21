@@ -201,7 +201,7 @@ By following the steps outlined above and utilizing Flask for the front-end, you
 
 ### AUTHOR
 <hr>
-<strong>Shehryar Gondal</strong>
+<strong>Pratham Srivastava</strong>
 
 
 You can get in touch with me on my LinkedIn Profile:<br>
